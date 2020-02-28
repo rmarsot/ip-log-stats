@@ -1,2 +1,2 @@
 # ip-log-stats
-Access log analysis (ssh, http)
+Access logs analysis (ssh, http)
